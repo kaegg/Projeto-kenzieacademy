@@ -1,0 +1,45 @@
+.container {
+  width: 90vw;
+  margin: 0 auto;
+}
+
+/* Header */
+.header{
+  background-image: url(../assets/img/header-bg.png);font-weight: 700;
+  font-size: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header img:nth-child(1){
+  margin-top: 86px;
+}
+
+.header img:nth-child(2){
+  margin-top: 94px;
+  margin-bottom: 102px;
+}
+
+/* Main */
+h1{
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+/* Footer */
+footer{
+  height: 186px;
+  background-image: url(../assets/img/header-bg.png);
+  display: flex;
+  align-items: center;
+}
+.footer-position {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  gap: 25px;
+}

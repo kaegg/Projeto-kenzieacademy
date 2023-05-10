@@ -57,7 +57,7 @@ nav {
 /*CARD LIST*/
 #cardList {
   height: 600px;
-  width: 60vw;
+  width: 70vw;
   margin: 60px auto;
   overflow: auto;
   gap: 20px;
